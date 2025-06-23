@@ -85,26 +85,16 @@ Used statistical methods (t-tests, ANOVA) to analyze:
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
-### 🔧 1. Clone the Repository
-```bash
+### 1. Clone the Repository
 git clone https://github.com/yourusername/student-chatgpt-perception.git
 cd student-chatgpt-perception
-⚙️ 2. Set up Virtual Environment
-bash
-Copy
-Edit
+### 2. Set up Virtual Environment
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-📦 3. Install Requirements
-bash
-Copy
-Edit
+### 3. Install Requirements
 pip install pandas seaborn matplotlib scipy openpyxl xlsxwriter
-▶️ 4. Run the Scripts
-bash
-Copy
-Edit
+### 4. Run the Scripts
 python Hypothesis\ testing.py
 python excel.py
