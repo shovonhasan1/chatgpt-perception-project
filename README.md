@@ -1,7 +1,7 @@
 # Student Perception of ChatGPT – Insights from Data
 
 **"How do students *really* feel about ChatGPT?"**  
-This project explores the perception, usage patterns, and psychological responses of students toward ChatGPT using real survey data. From blind trust to academic fears — we uncovered it all.
+This project explores the perception, usage patterns, and psychological responses of students toward ChatGPT using real survey data. From blind trust to academic fears, everything is uncovered.
 
 ## 📊 What This Project Includes
 - 🧠 **Data Analysis:** Exploratory analysis using Python (pandas, matplotlib, seaborn)
